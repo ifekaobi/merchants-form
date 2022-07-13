@@ -1,0 +1,24 @@
+naMe = { 
+"uid":"",
+"uidType":"",
+"Title":"MR",
+"FirstNAme":"",
+"middleName":"",
+"lastName":"",
+"userName":"",
+"phone":"",
+"emailId":"",
+"postalCode":"",
+"city":"",
+"state":"",
+"lga":"",
+"address":"",
+"countryOfResidence":"",
+"stateOfOrigin":"",
+"password":"",
+"remarks":"",
+"InstCode":"",
+"referralCode":"",
+"channel":""
+
+}
